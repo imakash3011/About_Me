@@ -1,0 +1,75 @@
+.name {
+  position:absolute;
+  top: 40%;
+  left: 20%;
+  width:80em;
+  height:100em;
+  margin-top: -9em; /*set to a negative number 1/2 of your height*/
+  /*margin-left: -15em; /*set to a negative number 1/2 of your width*/
+  border: 1px solid #ccc;
+  background-color: #f3f3f3;
+}
+
+#bottom{
+  position: fixed;
+   left: 0; 
+   right: 0; 
+   bottom: 0; 
+   height:50%;
+    background-color:white;
+}
+
+div div{
+  padding: 150px;
+  /* line-height: 10px; */
+}
+
+#top{
+  position: fixed; 
+  left: 0; 
+  right: 0; 
+  top: 0;
+  height: 50%;
+  background-color: #00FA9A  ;
+}
+
+#pic{
+  /* align: center; */
+  padding: 15px;
+  height: 360px;
+  width: 300px;
+}
+
+ul{
+  /* align-content: right; */
+  /* type: "none"; */
+  padding: 5px;
+  line-height: 80px;
+  /* margin: 100px; */
+}
+
+ul li{
+  margin-left: 500px;
+}
+
+p{
+  /* align-items: 500px; */
+  /* height: -100px; */
+  line-height: 70px;
+  /* padding-right: 200px; */
+}
+
+#Skill{
+  padding-left: -100px;
+  line-height: 60px;
+}
+
+#Contact{
+  padding-left: -100px;
+  line-height: 60px;
+}
+
+#Extra{
+  padding-left: -100px;
+  line-height: 60px;
+}
