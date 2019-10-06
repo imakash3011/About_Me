@@ -73,3 +73,7 @@ p{
   padding-left: -100px;
   line-height: 60px;
 }
+
+#maindiv{
+  box-shadow: 50px 50px 25px grey;
+}
