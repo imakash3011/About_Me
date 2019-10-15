@@ -1,12 +1,14 @@
 .name {
   position:absolute;
   top: 40%;
-  left: 20%;
+  left: 22%;
+  /* right: 80%; */
+  
   width:80em;
-  height:100em;
+  height:110em;
   margin-top: -9em; /*set to a negative number 1/2 of your height*/
   /*margin-left: -15em; /*set to a negative number 1/2 of your width*/
-  border: 1px solid #ccc;
+  border: 2px solid #ccc;
   background-color: #f3f3f3;
 }
 
@@ -76,4 +78,19 @@ p{
 
 #maindiv{
   box-shadow: 50px 50px 25px grey;
+  margin-bottom:200px ;
+  
+}
+
+.iconimg{
+  
+  /* text-align-last: center; */
+  margin-left:55px ;
+  margin-top:105px ;
+  padding-left: 90px;
+  height: 70px;
+  width: 70px;
+  
+  /* border-radius: 200px; */
+ 
 }
